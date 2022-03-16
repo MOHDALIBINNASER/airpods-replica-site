@@ -8,7 +8,7 @@
 # ![project-description](https://user-images.githubusercontent.com/95453430/154774221-cf69c20b-4bbe-44ed-a70b-445f3b444fae.svg)
 
 <!-- Description Text -->
-**Important Note: I am not affiliated with Apple and this demo is purely for the purpose of a personal project.**
+**Important Note: I am not affiliated with Apple and this demo is purely for the purpose of a personal project. This project is originally hosted in my main Github Account @mohdalibn.**
 
 This is **Front-End Project** featuring the replica of the **Apple Airpods Pro Website**. This project was primarily designed in **Webflow** with other changes made using **Html, CSS, & JavaScript**. I used figma to design the display mockups images of the website.
 
